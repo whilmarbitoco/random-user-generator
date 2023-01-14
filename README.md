@@ -2,9 +2,9 @@
 
 This is a simple tool that generates random user profiles with various information such as names, addresses, and contact information.
 
-## Usage
+## Demo
 
-To use the generator, simply visit the page [here](https://whilmarbitoco.me/user/)
+For reference simply visit the page [here](https://whilmarbitoco.me/user/)
 
 ## Credits
 
