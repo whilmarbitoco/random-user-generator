@@ -1,6 +1,6 @@
 # Random User Generator
 
-This is a simple tool that generates random user profiles with various information such as names, addresses, and contact information.
+This is a simple tool that generates random user profiles with various information such as names, email, and a profile picture.
 
 ## Demo
 
