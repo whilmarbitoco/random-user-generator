@@ -1,2 +1,14 @@
-# random-user-generator
-A random user generator
+# Random User Generator
+
+This is a simple tool that generates random user profiles with various information such as names, addresses, and contact information.
+
+## Usage
+
+To use the generator, simply visit the page [here](https://whilmarbitoco.me/user/)
+
+## Credits
+
+- This tool utilizes the [Random User Generator API](https://randomuser.me/) to generate random user profiles.
+
+
+
